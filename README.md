@@ -3,24 +3,6 @@
 
 ![](https://github-trophies.vercel.app/?username=lucbra21)
 
-### Languages :
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table  align="center">
-  <tr>
-    
-        🇺🇦 Ukrainian - Native
-        
-  </tr>
-
-  <tr>
-    
-        🇬🇧 English - Intermediate
-        
-  </tr>
-</table>
-</div>
-
 ### My stack and tools :
 
 <div align="center">
