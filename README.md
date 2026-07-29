@@ -8,11 +8,11 @@
   Hey, I'm Lucas Bracamonte
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
-
 <div align="center">
-  <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer+building+intelligent+solutions+for+sports.;Data+%26+AI+Engineer+%7C+Turning+sports+data+into+intelligent+products.;Software+Engineer+passionate+about+AI%2C+Data+and+Sports+Technology.;Full+Stack+Developer+building+AI-powered+applications+for+sports+organizations.;Machine+Learning+Engineer+creating+real-world+solutions+for+sports+analytics.;Data+Scientist+transforming+complex+sports+data+into+actionable+insights.;Building+the+future+of+Sports+Technology+with+AI%2C+Data+and+Software+Engineering.;CTO+%E2%80%A2+AI+%E2%80%A2+Data+%E2%80%A2+Product+%E2%80%A2+Sports+Technology;Technical+Leader+focused+on+AI%2C+Data+Engineering+and+Product+Development.;Building.+Learning.+Teaching.+Sharing.;Engineer%2C+Educator+%26+Builder+passionate+about+creating+technology+that+impacts+sports.;Innovation+through+AI%2C+Data+and+Software+Engineering." alt="Typing SVG" /></a>
+<p align="right">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer+building+intelligent+solutions+for+sports.;Data+%26+AI+Engineer+%7C+Turning+sports+data+into+intelligent+products.;Software+Engineer+passionate+about+AI%2C+Data+and+Sports+Technology.;Full+Stack+Developer+building+AI-powered+applications+for+sports+organizations.;Machine+Learning+Engineer+creating+real-world+solutions+for+sports+analytics.;Data+Scientist+transforming+complex+sports+data+into+actionable+insights.;Building+the+future+of+Sports+Technology+with+AI%2C+Data+and+Software+Engineering.;CTO+%E2%80%A2+AI+%E2%80%A2+Data+%E2%80%A2+Product+%E2%80%A2+Sports+Technology;Technical+Leader+focused+on+AI%2C+Data+Engineering+and+Product+Development.;Building.+Learning.+Teaching.+Sharing.;Engineer%2C+Educator+%26+Builder+passionate+about+creating+technology+that+impacts+sports.;Innovation+through+AI%2C+Data+and+Software+Engineering." alt="Typing SVG" /></a>
+</p>
 </div>
-
 ---
 
 ### GitHub Trophies :
