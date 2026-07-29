@@ -17,7 +17,7 @@
 
 ### GitHub Trophies :
 
-![](https://github-trophies.vercel.app/?username=lucbra21)
+![](https://github-trophies.vercel.app/?username=lucbra21&row=2&column=6&theme=onedark)
 
 ---
 
@@ -27,12 +27,12 @@
   <table>
     <tr>
       <td align="center" width="88">
-        <img src="./logos/python.svg" alt="HTML5" width="44" height="44" />
-        <br />HTML5
+        <img src="./logos/python.svg" alt="Python" width="44" height="44" />
+        <br />Python
       </td>
       <td align="center" width="88">
-        <img src="./logos/php.svg" alt="CSS3" width="44" height="44" />
-        <br />CSS3
+        <img src="./logos/php.png" alt="php" width="44" height="44" />
+        <br />php
       </td>
       <td align="center" width="88">
         <img src="./logos/javascript.svg" alt="JS" width="44" height="44" />
@@ -43,8 +43,8 @@
         <br />TypeScript
       </td>
       <td align="center" width="88">
-        <img src="./logos/ccs3.svg" alt="Python" width="44" height="44" />
-        <br />Python
+        <img src="./logos/ccs3.svg" alt="css3" width="44" height="44" />
+        <br />CSS3
       </td>
       <td align="center" width="88">
         <img src="./logos/react.svg" alt="React" width="44" height="44" />
@@ -65,19 +65,19 @@
     </tr>
     <tr>
       <td align="center" width="88">
-        <img src="./logos/c++.svg" alt="Sass" width="44" height="44" />
+        <img src="./logos/c++.png" alt="c++" width="44" height="44" />
         <br />Sass
       </td>
       <td align="center" width="88">
-        <img src="./logos/c#.svg" alt="Tailwind" width="44" height="44" />
+        <img src="./logos/c#.png" alt="c#" width="44" height="44" />
         <br />Tailwind
       </td>
       <td align="center" width="88">
-        <img src="./logos/boostrup.svg" alt="Tailwind" width="44" height="44" />
-        <br />Boostrup
+        <img src="./logos/bootstrap.png" alt="Bootstrap" width="44" height="44" />
+        <br />Bootstrap
       </td>
       <td align="center" width="88">
-        <img src="./logos/html5.svg" alt="Tailwind" width="44" height="44" />
+        <img src="./logos/html5.svg" alt="Html5" width="44" height="44" />
         <br />Html5
       </td>
       
@@ -93,92 +93,59 @@
   <table>
     <tr>
       <td align="center" width="88">
-        <img src="./logos/python.svg" alt="HTML5" width="44" height="44" />
-        <br />HTML5
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/css3.svg" alt="CSS3" width="44" height="44" />
-        <br />CSS3
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/javascript.svg" alt="JS" width="44" height="44" />
-        <br />JavaScript
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/typescript.svg" alt="TS" width="44" height="44" />
-        <br />TypeScript
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/python.svg" alt="Python" width="44" height="44" />
+        <img src="./logos/python.svg" alt="python" width="44" height="44" />
         <br />Python
       </td>
       <td align="center" width="88">
-        <img src="./logos/react.svg" alt="React" width="44" height="44" />
-        <br />React.js
+        <img src="./logos/TensorFlow.png" alt="TensorFlow" width="44" height="44" />
+        <br />scikit-learn
       </td>
       <td align="center" width="88">
-        <img src="./logos/nextjs.svg" alt="Next.js" width="44" height="44" />
-        <br />Next.js
+        <img src="./logos/scikit-learn.png" alt="scikit-learn" width="44" height="44" />
+        <br />Scikit-learn
       </td>
       <td align="center" width="88">
-        <img src="./logos/nodejs.svg" alt="Node.js" width="44" height="44" />
-        <br />Node.js
+        <img src="./logos/Pandas.png" alt="Pandas" width="44" height="44" />
+        <br />Pandas
       </td>
       <td align="center" width="88">
-        <img src="./logos/dotnet.png" alt=".NET" width="44" height="44" />
-        <br />.NET
+        <img src="./logos/NumPy.png" alt="NumPy" width="44" height="44" />
+        <br />NumPy
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/OpenCV.svg" alt="OpenCV" width="44" height="44" />
+        <br />OpenCV
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/Hugging Face.png" alt="Hugging Face" width="44" height="44" />
+        <br />Hugging Face
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/ollama.png" alt="ollama" width="44" height="44" />
+        <br />Ollama
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/OpenAI.webp" alt="OpenAI" width="44" height="44" />
+        <br />OpenAI
       </td>
     </tr>
     <tr>
       <td align="center" width="88">
-        <img src="./logos/sass.svg" alt="Sass" width="44" height="44" />
-        <br />Sass
+        <img src="./logos/Gemini.svg" alt="Gemini" width="44" height="44" />
+        <br />Gemini
       </td>
       <td align="center" width="88">
-        <img src="./logos/tailwind.svg" alt="Tailwind" width="44" height="44" />
-        <br />Tailwind
+        <img src="./logos/CoudeCode.svg" alt="CoudeCode" width="44" height="44" />
+        <br />Coude Code
       </td>
       <td align="center" width="88">
-        <img src="./logos/mongodb.svg" alt="MongoDB" width="44" height="44" />
-        <br />MongoDB
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/postgresql.svg" alt="PostgreSQL" width="44" height="44" />
-        <br />PostgreSQL
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/drizzle.svg" alt="Drizzle" width="44" height="44" />
-        <br />Drizzle
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/redis.svg" alt="Redis" width="44" height="44" />
-        <br />Redis
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/docker.svg" alt="Docker" width="44" height="44" />
-        <br />Docker
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/kubernetes.svg" alt="Kubernetes" width="44" height="44" />
-        <br />Kubernetes
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/aws.svg" alt="AWS" width="44" height="44" />
-        <br />AWS
+        <img src="./logos/Jupyter.svg" alt="Jupyter" width="44" height="44" />
+        <br />Jupyter
       </td>
     </tr>
   </table>
 </div>
 
-[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)](#)
-[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white)](#)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white)](#)
-[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white)](#)
-[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?logo=huggingface&logoColor=black)](#)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)](#)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)](#)
 
 ---
 
@@ -188,92 +155,60 @@
   <table>
     <tr>
       <td align="center" width="88">
-        <img src="./logos/python.svg" alt="HTML5" width="44" height="44" />
-        <br />HTML5
+        <img src="./logos/sql.svg" alt="HTML5" width="44" height="44" />
+        <br />SQL
       </td>
       <td align="center" width="88">
-        <img src="./logos/css3.svg" alt="CSS3" width="44" height="44" />
-        <br />CSS3
+        <img src="./logos/nosql.png" alt="NoSQL" width="44" height="44" />
+        <br />NoSQL
       </td>
       <td align="center" width="88">
-        <img src="./logos/javascript.svg" alt="JS" width="44" height="44" />
-        <br />JavaScript
+        <img src="./logos/sqlserver.png" alt="MS SQL" width="44" height="44" />
+        <br />MS SQL
       </td>
       <td align="center" width="88">
-        <img src="./logos/typescript.svg" alt="TS" width="44" height="44" />
-        <br />TypeScript
+        <img src="./logos/postgres.png" alt="Postgres" width="44" height="44" />
+        <br />Postgres SQL
       </td>
       <td align="center" width="88">
-        <img src="./logos/python.svg" alt="Python" width="44" height="44" />
-        <br />Python
+        <img src="./logos/mysql.png" alt="MySql" width="44" height="44" />
+        <br />MySQL
       </td>
       <td align="center" width="88">
-        <img src="./logos/react.svg" alt="React" width="44" height="44" />
-        <br />React.js
+        <img src="./logos/mariadb.png" alt="MariaDB" width="44" height="44" />
+        <br />MariaDB
       </td>
       <td align="center" width="88">
-        <img src="./logos/nextjs.svg" alt="Next.js" width="44" height="44" />
-        <br />Next.js
+        <img src="./logos/sqllite.png" alt="React" width="44" height="44" />
+        <br />SQL Lite
       </td>
       <td align="center" width="88">
-        <img src="./logos/nodejs.svg" alt="Node.js" width="44" height="44" />
-        <br />Node.js
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/dotnet.png" alt=".NET" width="44" height="44" />
-        <br />.NET
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="88">
-        <img src="./logos/sass.svg" alt="Sass" width="44" height="44" />
-        <br />Sass
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/tailwind.svg" alt="Tailwind" width="44" height="44" />
-        <br />Tailwind
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/mongodb.svg" alt="MongoDB" width="44" height="44" />
+        <img src="./logos/mongodb.png" alt="MongoDB" width="44" height="44" />
         <br />MongoDB
       </td>
       <td align="center" width="88">
-        <img src="./logos/postgresql.svg" alt="PostgreSQL" width="44" height="44" />
-        <br />PostgreSQL
+        <img src="./logos/unqlite.png" alt="unqlite" width="44" height="44" />
+        <br />UnqLite
       </td>
       <td align="center" width="88">
-        <img src="./logos/drizzle.svg" alt="Drizzle" width="44" height="44" />
-        <br />Drizzle
+        <img src="./logos/amazonrds.png" alt="AmazonRDS" width="44" height="44" />
+        <br />Amazon RDS
       </td>
       <td align="center" width="88">
-        <img src="./logos/redis.svg" alt="Redis" width="44" height="44" />
-        <br />Redis
+        <img src="./logos/duckdb.png" alt="DuckDB" width="44" height="44" />
+        <br />Duck DB
       </td>
       <td align="center" width="88">
-        <img src="./logos/docker.svg" alt="Docker" width="44" height="44" />
-        <br />Docker
+        <img src="./logos/supabase.webp" alt="supabase" width="44" height="44" />
+        <br />Supabase
       </td>
       <td align="center" width="88">
-        <img src="./logos/kubernetes.svg" alt="Kubernetes" width="44" height="44" />
-        <br />Kubernetes
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/aws.svg" alt="AWS" width="44" height="44" />
-        <br />AWS
+        <img src="./logos/airtable.png" alt="Airtable" width="44" height="44" />
+        <br />Airtable
       </td>
     </tr>
   </table>
 </div>
-
-[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)](#)
-[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white)](#)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white)](#)
-[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white)](#)
-[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?logo=huggingface&logoColor=black)](#)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)](#)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)](#)
 
 ---
 
@@ -283,92 +218,32 @@
   <table>
     <tr>
       <td align="center" width="88">
-        <img src="./logos/python.svg" alt="HTML5" width="44" height="44" />
-        <br />HTML5
+        <img src="./logos/windows.webp" alt="Windows" width="44" height="44" />
+        <br />Windows
       </td>
       <td align="center" width="88">
-        <img src="./logos/css3.svg" alt="CSS3" width="44" height="44" />
-        <br />CSS3
+        <img src="./logos/linux.png" alt="linux" width="44" height="44" />
+        <br />Linux
       </td>
       <td align="center" width="88">
-        <img src="./logos/javascript.svg" alt="JS" width="44" height="44" />
-        <br />JavaScript
+        <img src="./logos/macos.png" alt="macos" width="44" height="44" />
+        <br />Mac OS
       </td>
       <td align="center" width="88">
-        <img src="./logos/typescript.svg" alt="TS" width="44" height="44" />
+        <img src="./logos/android.png" alt="TS" width="44" height="44" />
         <br />TypeScript
       </td>
       <td align="center" width="88">
-        <img src="./logos/python.svg" alt="Python" width="44" height="44" />
-        <br />Python
+        <img src="./logos/android.png" alt="Android" width="44" height="44" />
+        <br />Android
       </td>
       <td align="center" width="88">
-        <img src="./logos/react.svg" alt="React" width="44" height="44" />
-        <br />React.js
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/nextjs.svg" alt="Next.js" width="44" height="44" />
-        <br />Next.js
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/nodejs.svg" alt="Node.js" width="44" height="44" />
-        <br />Node.js
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/dotnet.png" alt=".NET" width="44" height="44" />
-        <br />.NET
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="88">
-        <img src="./logos/sass.svg" alt="Sass" width="44" height="44" />
-        <br />Sass
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/tailwind.svg" alt="Tailwind" width="44" height="44" />
-        <br />Tailwind
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/mongodb.svg" alt="MongoDB" width="44" height="44" />
-        <br />MongoDB
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/postgresql.svg" alt="PostgreSQL" width="44" height="44" />
-        <br />PostgreSQL
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/drizzle.svg" alt="Drizzle" width="44" height="44" />
-        <br />Drizzle
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/redis.svg" alt="Redis" width="44" height="44" />
-        <br />Redis
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/docker.svg" alt="Docker" width="44" height="44" />
-        <br />Docker
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/kubernetes.svg" alt="Kubernetes" width="44" height="44" />
-        <br />Kubernetes
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/aws.svg" alt="AWS" width="44" height="44" />
-        <br />AWS
+        <img src="./logos/ios.svg" alt="IOS" width="44" height="44" />
+        <br />IOS
       </td>
     </tr>
   </table>
 </div>
-
-[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)](#)
-[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white)](#)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white)](#)
-[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white)](#)
-[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?logo=huggingface&logoColor=black)](#)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)](#)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)](#)
 
 ---
 
@@ -378,131 +253,131 @@
   <table>
     <tr>
       <td align="center" width="88">
-        <img src="./logos/docker.svg" alt="HTML5" width="44" height="44" />
-        <br />HTML5
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/git.svg" alt="CSS3" width="44" height="44" />
-        <br />CSS3
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/github.svg" alt="JS" width="44" height="44" />
-        <br />JavaScript
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/gitlab.svg" alt="TS" width="44" height="44" />
-        <br />TypeScript
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/bitbucket.svg" alt="Python" width="44" height="44" />
-        <br />Python
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/postman.svg" alt="React" width="44" height="44" />
-        <br />React.js
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/insomnia.svg" alt="Next.js" width="44" height="44" />
-        <br />Next.js
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/aws.svg" alt="Node.js" width="44" height="44" />
-        <br />Node.js
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/dotnet.png" alt=".NET" width="44" height="44" />
-        <br />.NET
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="88">
-        <img src="./logos/sass.svg" alt="Sass" width="44" height="44" />
-        <br />Sass
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/tailwind.svg" alt="Tailwind" width="44" height="44" />
-        <br />Tailwind
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/mongodb.svg" alt="MongoDB" width="44" height="44" />
-        <br />MongoDB
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/postgresql.svg" alt="PostgreSQL" width="44" height="44" />
-        <br />PostgreSQL
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/drizzle.svg" alt="Drizzle" width="44" height="44" />
-        <br />Drizzle
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/redis.svg" alt="Redis" width="44" height="44" />
-        <br />Redis
-      </td>
-      <td align="center" width="88">
         <img src="./logos/docker.svg" alt="Docker" width="44" height="44" />
         <br />Docker
       </td>
       <td align="center" width="88">
-        <img src="./logos/kubernetes.svg" alt="Kubernetes" width="44" height="44" />
-        <br />Kubernetes
+        <img src="./logos/git.png" alt="git" width="44" height="44" />
+        <br />GIT
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/github.svg" alt="github" width="44" height="44" />
+        <br />GitHub
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/gitlab.svg" alt="gitlab" width="44" height="44" />
+        <br />GitLab
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/bitbucket.png" alt="bitbucket" width="44" height="44" />
+        <br />Bitbucket
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/postman.png" alt="postman" width="44" height="44" />
+        <br />Postman
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/insomnia.png" alt="insomnia" width="44" height="44" />
+        <br />Insomnia
       </td>
       <td align="center" width="88">
         <img src="./logos/aws.svg" alt="AWS" width="44" height="44" />
         <br />AWS
       </td>
+      <td align="center" width="88">
+        <img src="./logos/Azure.png" alt="Azure" width="44" height="44" />
+        <br />Azure
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/notion.png" alt="Notion" width="44" height="44" />
+        <br />Notion
+      </td>
     </tr>
   </table>
 </div>
 
-<p>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
-  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-5d9425.svg?logo=intellij-idea&logoColor=white"></a>
-  <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-0078d7.svg?logo=xcode&logoColor=white"></a>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-  <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black"></a>
-  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
-  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"></a>
-  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
-  <a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-555555?logo=apple&logoColor=white"></a>
-</p>
+---
+
+### IDEs:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="./logos/visualcode.png" alt="Visual Code" width="44" height="44" />
+        <br />Visual Code
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/cursor.png" alt="cursor" width="44" height="44" />
+        <br />NoSQL
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/NetBeans.png" alt="NetBeans" width="44" height="44" />
+        <br />NetBeans
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/PyCharm.png" alt="PyCharm" width="44" height="44" />
+        <br />PyCharm
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/xcode.png" alt="xcode" width="44" height="44" />
+        <br />xcode
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/sublimetext.png" alt="SublimeText" width="44" height="44" />
+        <br />Sublime Text
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/Jupyter_logo.png" alt="Jupyter" width="44" height="44" />
+        <br />Jupyter Notebook
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/cursor.png" alt="cursor" width="44" height="44" />
+        <br />Cursor AI
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/windsurf.webp" alt="windsurf" width="44" height="44" />
+        <br />Windsurf
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/cloudecode.png" alt="cloudecode" width="44" height="44" />
+        <br />Cloude Code
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/codex.png" alt="codex" width="44" height="44" />
+        <br />Codex
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/opencode.png" alt="opencode" width="44" height="44" />
+        <br />OpenCode
+      </td>
+      <td align="center" width="88">
+        <img src="./logos/Gemini.png" alt="Gemini" width="44" height="44" />
+        <br />Gemini
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### GitHub Stats :
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=ViktorSvertoka&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  ### 💻 GitHub Stats
+<div style="display: flex;" align="center">
+  <img alt="lucbra21's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lucbra21&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
+  <img alt="lucbra21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucbra21&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
+</div>
+
+
+---
 </p>
 
-<div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
-</div>
-  
-<br>
+📩 **Let's talk:** [ing.lucasbracamonte@gmail.com](mailto:ing.lucasbracamonte) | [LinkedIn](https://www.linkedin.com/in/lucas-braca/)
 
-<div align="center">
-<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-</div>
+---
 
-<br>
-
-<div align="center">
-<a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/viktor.svertoka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
-</div>
 <!--
 **lucbra21/lucbra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
