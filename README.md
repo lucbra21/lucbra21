@@ -43,7 +43,7 @@
         <br />TypeScript
       </td>
       <td align="center" width="88">
-        <img src="./logos/CSS3.svg" alt="css3" width="44" height="44" />
+        <img src="./logos/css3.png" alt="css3" width="44" height="44" />
         <br />CSS3
       </td>
       <td align="center" width="88">
@@ -58,12 +58,12 @@
         <img src="./logos/nodejs.svg" alt="Node.js" width="44" height="44" />
         <br />Node.js
       </td>
+    </tr>
+    <tr>
       <td align="center" width="88">
         <img src="./logos/dotnet.png" alt=".NET" width="44" height="44" />
         <br />.NET
       </td>
-    </tr>
-    <tr>
       <td align="center" width="88">
         <img src="./logos/c++.png" alt="c++" width="44" height="44" />
         <br />Sass
@@ -98,7 +98,7 @@
       </td>
       <td align="center" width="88">
         <img src="./logos/TensorFlow.png" alt="TensorFlow" width="44" height="44" />
-        <br />scikit-learn
+        <br />TensorFlow
       </td>
       <td align="center" width="88">
         <img src="./logos/scikit-learn.png" alt="scikit-learn" width="44" height="44" />
@@ -113,7 +113,7 @@
         <br />NumPy
       </td>
       <td align="center" width="88">
-        <img src="./logos/OpenCV.svg" alt="OpenCV" width="44" height="44" />
+        <img src="./logos/opencv.png" alt="OpenCV" width="44" height="44" />
         <br />OpenCV
       </td>
       <td align="center" width="88">
@@ -124,22 +124,22 @@
         <img src="./logos/ollama.png" alt="ollama" width="44" height="44" />
         <br />Ollama
       </td>
+    </tr>
+    <tr>
       <td align="center" width="88">
         <img src="./logos/OpenAI.webp" alt="OpenAI" width="44" height="44" />
         <br />OpenAI
       </td>
-    </tr>
-    <tr>
       <td align="center" width="88">
-        <img src="./logos/Gemini.svg" alt="Gemini" width="44" height="44" />
+        <img src="./logos/Gemini.png" alt="Gemini" width="44" height="44" />
         <br />Gemini
       </td>
       <td align="center" width="88">
-        <img src="./logos/CoudeCode.svg" alt="CoudeCode" width="44" height="44" />
-        <br />Coude Code
+        <img src="./logos/cloudecode.png" alt="Cloude Code" width="44" height="44" />
+        <br />Cloude Code
       </td>
       <td align="center" width="88">
-        <img src="./logos/Jupyter.svg" alt="Jupyter" width="44" height="44" />
+        <img src="./logos/Jupyter_logo.webp" alt="Jupyter" width="44" height="44" />
         <br />Jupyter
       </td>
     </tr>
@@ -155,7 +155,7 @@
   <table>
     <tr>
       <td align="center" width="88">
-        <img src="./logos/sql.svg" alt="HTML5" width="44" height="44" />
+        <img src="./logos/sql.png" alt="HTML5" width="44" height="44" />
         <br />SQL
       </td>
       <td align="center" width="88">
@@ -190,6 +190,8 @@
         <img src="./logos/unqlite.png" alt="unqlite" width="44" height="44" />
         <br />UnqLite
       </td>
+    </tr>
+    <tr>
       <td align="center" width="88">
         <img src="./logos/amazonrds.png" alt="AmazonRDS" width="44" height="44" />
         <br />Amazon RDS
@@ -238,7 +240,7 @@
         <br />Android
       </td>
       <td align="center" width="88">
-        <img src="./logos/ios.svg" alt="IOS" width="44" height="44" />
+        <img src="./logos/ios.png" alt="IOS" width="44" height="44" />
         <br />IOS
       </td>
     </tr>
@@ -288,6 +290,8 @@
         <img src="./logos/Azure.png" alt="Azure" width="44" height="44" />
         <br />Azure
       </td>
+    </tr>
+    <tr>
       <td align="center" width="88">
         <img src="./logos/notion.png" alt="Notion" width="44" height="44" />
         <br />Notion
@@ -328,9 +332,11 @@
         <br />Sublime Text
       </td>
       <td align="center" width="88">
-        <img src="./logos/Jupyter_logo.png" alt="Jupyter" width="44" height="44" />
+        <img src="./logos/Jupyter_logo.webp" alt="Jupyter" width="44" height="44" />
         <br />Jupyter Notebook
       </td>
+    </tr>
+    <tr>
       <td align="center" width="88">
         <img src="./logos/cursor.png" alt="cursor" width="44" height="44" />
         <br />Cursor AI
@@ -367,7 +373,7 @@
   ### 💻 GitHub Stats
 <div style="display: flex;" align="center">
   <img alt="lucbra21's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lucbra21&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
-  <img alt="lucbra21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucbra21&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
+ 
 </div>
 
 
