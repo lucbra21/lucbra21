@@ -186,12 +186,12 @@
         <img src="./logos/mongodb.png" alt="MongoDB" width="44" height="44" />
         <br />MongoDB
       </td>
+    </tr>
+    <tr>
       <td align="center" width="88">
         <img src="./logos/unqlite.png" alt="unqlite" width="44" height="44" />
         <br />UnqLite
       </td>
-    </tr>
-    <tr>
       <td align="center" width="88">
         <img src="./logos/amazonrds.png" alt="AmazonRDS" width="44" height="44" />
         <br />Amazon RDS
@@ -263,11 +263,11 @@
         <br />GIT
       </td>
       <td align="center" width="88">
-        <img src="./logos/github.svg" alt="github" width="44" height="44" />
+        <img src="./logos/github.png" alt="github" width="44" height="44" />
         <br />GitHub
       </td>
       <td align="center" width="88">
-        <img src="./logos/gitlab.svg" alt="gitlab" width="44" height="44" />
+        <img src="./logos/gitlab.png" alt="gitlab" width="44" height="44" />
         <br />GitLab
       </td>
       <td align="center" width="88">
@@ -275,7 +275,7 @@
         <br />Bitbucket
       </td>
       <td align="center" width="88">
-        <img src="./logos/postman.png" alt="postman" width="44" height="44" />
+        <img src="./logos/postman.webp" alt="postman" width="44" height="44" />
         <br />Postman
       </td>
       <td align="center" width="88">
@@ -283,15 +283,15 @@
         <br />Insomnia
       </td>
       <td align="center" width="88">
-        <img src="./logos/aws.svg" alt="AWS" width="44" height="44" />
-        <br />AWS
-      </td>
-      <td align="center" width="88">
-        <img src="./logos/Azure.png" alt="Azure" width="44" height="44" />
+        <img src="./logos/azure.png" alt="Azure" width="44" height="44" />
         <br />Azure
       </td>
     </tr>
     <tr>
+      <td align="center" width="88">
+        <img src="./logos/aws.ong" alt="AWS" width="44" height="44" />
+        <br />AWS
+      </td>
       <td align="center" width="88">
         <img src="./logos/notion.png" alt="Notion" width="44" height="44" />
         <br />Notion
