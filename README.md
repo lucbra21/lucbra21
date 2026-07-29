@@ -16,9 +16,10 @@
 ---
 
 ### GitHub Trophies :
-<div align="center">
+<p align="right">
+
 ![](https://github-trophies.vercel.app/?username=lucbra21&row=2&column=6&theme=onedark)
-</div>
+</p>
 ---
 
 ### ⚡ Languages:
@@ -69,8 +70,8 @@
         <br />Sass
       </td>
       <td align="center" width="88">
-        <img src="./logos/c#.png" alt="c#" width="44" height="44" />
-        <br />Tailwind
+        <img src="./logos/csharp.png" alt="c#" width="44" height="44" />
+        <br />C#
       </td>
       <td align="center" width="88">
         <img src="./logos/bootstrap.png" alt="Bootstrap" width="44" height="44" />
