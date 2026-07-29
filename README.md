@@ -16,9 +16,9 @@
 ---
 
 ### GitHub Trophies :
-
+<div align="center">
 ![](https://github-trophies.vercel.app/?username=lucbra21&row=2&column=6&theme=onedark)
-
+</div>
 ---
 
 ### ⚡ Languages:
@@ -80,7 +80,6 @@
         <img src="./logos/html5.svg" alt="Html5" width="44" height="44" />
         <br />Html5
       </td>
-      
     </tr>
   </table>
 </div>
