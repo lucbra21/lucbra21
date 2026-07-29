@@ -263,7 +263,7 @@
         <br />GIT
       </td>
       <td align="center" width="88">
-        <img src="./logos/github.png" alt="github" width="44" height="44" />
+        <img src="./logos/GitHub.png" alt="github" width="44" height="44" />
         <br />GitHub
       </td>
       <td align="center" width="88">
@@ -289,7 +289,7 @@
     </tr>
     <tr>
       <td align="center" width="88">
-        <img src="./logos/aws.ong" alt="AWS" width="44" height="44" />
+        <img src="./logos/aws.png" alt="AWS" width="44" height="44" />
         <br />AWS
       </td>
       <td align="center" width="88">
@@ -335,12 +335,12 @@
         <img src="./logos/Jupyter_logo.webp" alt="Jupyter" width="44" height="44" />
         <br />Jupyter Notebook
       </td>
-    </tr>
-    <tr>
       <td align="center" width="88">
         <img src="./logos/cursor.png" alt="cursor" width="44" height="44" />
         <br />Cursor AI
       </td>
+    </tr>
+    <tr>
       <td align="center" width="88">
         <img src="./logos/windsurf.webp" alt="windsurf" width="44" height="44" />
         <br />Windsurf
