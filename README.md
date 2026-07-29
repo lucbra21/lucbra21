@@ -1,4 +1,4 @@
-## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucbra21)](https://github.com/lucbra21/github-profile-trophy)
 
 <!--
 **lucbra21/lucbra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
