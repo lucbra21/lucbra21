@@ -1,5 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucbra21)](https://github.com/lucbra21/github-profile-trophy)
 
+![](https://github-trophies.vercel.app/?username=lucbra21)
 <!--
 **lucbra21/lucbra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
